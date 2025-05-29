@@ -1,73 +1,73 @@
 {
-  "Color": "#ff5733",
+  "Color": "#ffee33",
   "Head": {
-    "title": "Jhon Doe | Frontend Developer & Designer",
-    "NavbarName": "Jhon Doe"
+    "title": "鲍沐辰",
+    "NavbarName": "鲍沐辰"
   },
   "HomePage": {
-    "name": "Jhon Doe",
+    "name": "鲍沐辰",
     "Position": [
-      "Position 1",
-      "Position 2",
-      "Position 3",
-      "Position 4"
+      "数字媒体艺术学生",
+      "",
+      "",
+      ""
     ],
-    "description": "I design and build websites that look good, and work well."
+    "description": ""
   },
   "AboutPage": {
-    "AboutParagraph": "I am a frontend developer and designer with a passion for creating beautiful and user-friendly websites and applications. I have a strong background in both web development and graphic design, and I enjoy using my skills to create stunning websites and interfaces that are easy to use and navigate.In my previous work, I have designed and developed websites for a variety of clients, including small businesses, non-profit organizations, and large corporations. I have also created mobile applications and responsive websites that are compatible with a variety of devices and screen sizes. My goal is always to create websites and applications that are visually appealing and user-friendly, and I believe that my skills and experience make me an excellent frontend developer and designer.",
-    "ImageLink": "https://cdn.vectorstock.com/i/1000x1000/23/81/default-avatar-profile-icon-vector-18942381.webp"
+    "AboutParagraph": "性别：女\n年龄：2006年1月12日\n学校：哈尔滨工业大学\n专业：数字媒体与艺术\n爱好：排球，游泳，话剧，绘画...",
+    "ImageLink": "\"C:\\Users\\鲍沐辰\\Desktop\\我1.jpg\""
   },
   "Skills": [
-    "Lighting Techniques",
-    "Final Cut Pro",
-    "Persuasion Techniques",
-    "Agile Methodology",
-    "Adobe Creative Suite"
+    "Adobe Creative Suite",
+    "视频剪辑",
+    "摄影后期",
+    "建模渲染",
+    "UI设计",
+    "动效设计"
   ],
   "Projects": [
     {
-      "title": "Project Title1",
-      "ImageLink": "",
+      "title": "\"REBORN\"",
+      "ImageLink": "\"C:\\Users\\鲍沐辰\\Desktop\\web\\海报12.png\"",
       "Status": "Completed",
-      "ProjectName": "Project Title1",
+      "ProjectName": "\"REBORN\"",
       "Technologies": [
-        "ReactJS",
-        "Creative Writing"
+        "Adobe Creative Suite",
+        "UI设计",
+        "海报设计",
+        "建模渲染"
       ],
-      "Description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad recusandae eum, perspiciatis amet corrupti at? Voluptates ipsum, doloribus in repudiandae nemo a? Unde accusamus pariatur repudiandae similique. Quod, veniam aliquid! Project Description 1 ",
-      "DemoLink": "/"
+      "Description": "垃圾回收利用艺术装置及同名APP设计方案",
+      "DemoLink": "http://127.0.0.1:5500/index.html"
     },
     {
-      "title": "Project Title2",
+      "title": "“Butterfly in My Head\"",
+      "ImageLink": "\"C:\\Users\\鲍沐辰\\Desktop\\web1\\a22222.png\"",
+      "Status": "Completed",
+      "ProjectName": "“Butterfly in My Head\"",
+      "Technologies": [
+        "Adobe Creative Suite",
+        "Arduino",
+        "建模渲染"
+      ],
+      "Description": "C-PTSD艺术交互装置",
+      "DemoLink": "http://127.0.0.1:5500/butterfly.html"
+    },
+    {
+      "title": "爱好&demo",
       "ImageLink": "",
       "Status": "Working On it",
-      "ProjectName": "Project Title2",
+      "ProjectName": "爱好&demo",
       "Technologies": [
-        "Lighting Techniques",
-        "ReactJS",
-        "Creative Writing"
+        "Adobe Creative Suite",
+        "话剧表演"
       ],
-      "Description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad recusandae eum, perspiciatis amet corrupti at? Voluptates ipsum, doloribus in repudiandae nemo a? Unde accusamus pariatur repudiandae similique. Quod, veniam aliquid! Project Description 1 ",
-      "DemoLink": ""
-    },
-    {
-      "title": "Project Title3",
-      "ImageLink": "",
-      "Status": "Completed",
-      "ProjectName": "Project Title3",
-      "Technologies": [
-        "ReactJS",
-        "Creative Writing"
-      ],
-      "Description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad recusandae eum, perspiciatis amet corrupti at? Voluptates ipsum, doloribus in repudiandae nemo a? Unde accusamus pariatur repudiandae similique. Quod, veniam aliquid! Project Description 1 ",
-      "DemoLink": ""
+      "Description": "社团活动项目和平时的demo",
+      "DemoLink": "http://127.0.0.1:5500/index.html"
     }
   ],
-   "Contact": {
-    "Email": "johndoe@gmail.com",
-    "Github": "https://github.com/johndoe",
-    "Twitter": "https://twitter.com/johndoe",
-    "LinkedIn": "https://linkedin.com/johndoe"
+  "Contact": {
+    "Email": "baomuchen@outlook.com"
   }
-}
+} 
